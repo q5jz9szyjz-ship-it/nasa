@@ -2,7 +2,7 @@
 // NASA Space Explorer
 
 // Put your NASA API key here
-const apiKey = "DEMO_KEY";
+const apiKey = "PASTE_YOUR_ACTUAL_KEY_HERE";
 
 const form = document.getElementById("dateForm");
 const startDate = document.getElementById("startDate");
